@@ -44,5 +44,5 @@ Navbar.protoTypes = {
 
 Navbar.defaultProps ={
     title :"text",
-    aboutText: "about"  
+    aboutText: "About"  
 }
